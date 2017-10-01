@@ -1,1 +1,1 @@
-# Starter kit for React project
+# Test drive react
