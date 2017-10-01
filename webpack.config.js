@@ -3,7 +3,8 @@ const path = require('path');
 module.exports = {
   //input setup
   entry: [
-    './src/index.jsx',
+    'babel-polyfill',
+    './src/index.js'
   ],
 
   // output setup
